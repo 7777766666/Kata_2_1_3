@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="PP_2_1_3_Spring_HelloWorld_NewMy" />
         <module name="spring-helloworld" />
       </profile>
     </annotationProcessing>
